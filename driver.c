@@ -1,10 +1,4 @@
-/**
- * @file
- * @author Hamik Mukelyan
- *
- * Drives a text-based Flappy Bird knock-off that is intended to run in an
- * 80 x 24 console.
- */
+
 
 #include <ncurses.h>
 #include <unistd.h>
