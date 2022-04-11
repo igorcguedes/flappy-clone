@@ -3,9 +3,13 @@
 Simple Flappy bird game clone using only terminal.
 
 To download and play just:
+
 git clone https://github.com/igorcguedes/flappy-clone/
+
 cd flappy-clone
+
 make
+
 ./flappy
 
 
